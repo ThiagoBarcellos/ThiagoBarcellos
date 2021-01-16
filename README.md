@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hey, I'm Thiago Barcellos! 👋
 
+Computer science student at UFRJ
+
+🇧🇷 Born in Rio de Janeiro, Brazil
+
+### Find me elsewhere 🌎
+🚀 [Site](https://thiagobarcellos.github.io)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/thiago-barcellos/)
 <!--
 **ThiagoBarcellos/ThiagoBarcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
